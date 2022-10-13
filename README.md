@@ -3,7 +3,7 @@
 
 # Hi there 👋, I am Vivek Raj Gupta
 
-An aspiring Data Scientist and a Huge Programming fan
+<h3>An aspiring Data Scientist and a Huge Programming fan</h3>
 
 </div>
 
@@ -14,4 +14,9 @@ An aspiring Data Scientist and a Huge Programming fan
 - 📫 How to reach me: vivekrajgupta2002@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cprogramming
+
+## Connect with me
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vivek-raj-gupta-2002)](https://git.io/streak-stats)
 
