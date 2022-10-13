@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Vivek-raj-gupta-2002/Vivek-raj-gupta-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi there 👋, I am Vivek Raj Gupta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+An aspiring Data Scientist and a Huge Programming fan
+
+</div>
+
+- 🔭 I’m currently working on Open-source projects 
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on new tech projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: vivekrajgupta2002@outlook.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love cprogramming
+
