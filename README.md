@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Open-source projects 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on new tech projects
-- 📫 How to reach me: vivekrajgupta2002@outlook.com
+- 📫 How to reach me: vivekrajgupta2002+github@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love programming
 
