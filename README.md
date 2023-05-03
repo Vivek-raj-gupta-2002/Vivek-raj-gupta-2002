@@ -7,12 +7,11 @@
 
 </div>
 
-- 🔭 I’m currently working on Open-source projects 
-- 🌱 I’m currently learning MERN
+- 🔭 I’m currently working on Personal Finance Manager
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on new tech projects
 - 📫 How to reach me: vivekrajgupta2002+github@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love programming
 - 🖖 Personal Site: https://vivek-raj-gupta-2002.github.io/
 
 
