@@ -15,4 +15,4 @@
 - 🖖 Personal Site: https://vivek-raj-gupta-2002.github.io/
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vivek-raj-gupta-2002&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vivek-raj-gupta-2002&theme=neon)](https://git.io/streak-stats)
