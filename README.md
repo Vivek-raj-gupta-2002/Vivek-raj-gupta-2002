@@ -8,6 +8,7 @@
 </div>
 
 - 🔭 I’m currently working on Machine Learning Project
+- 🌟 2⭐ Coder at [LeetCode](https://leetcode.com/vivek-raj-gupta-2002/)
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on new tech projects
 - 📫 How to reach me: vivekrajgupta2002+github@outlook.com
