@@ -7,7 +7,7 @@
 
 </div>
 
-- 🔭 I’m currently working on Personal Finance Manager
+- 🔭 I’m currently working on Machine Learning Project
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on new tech projects
 - 📫 How to reach me: vivekrajgupta2002+github@outlook.com
