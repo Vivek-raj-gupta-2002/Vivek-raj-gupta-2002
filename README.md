@@ -30,13 +30,6 @@ Cloud & Tools:    Azure, Vercel, GitHub Actions
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-raj-gupta-2002&show_icons=true&theme=radical" alt="Vivek's GitHub stats" width="48%"/>
-</p>
-
----
 
 ### 📫 Connect with Me
 
